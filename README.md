@@ -5,3 +5,5 @@ Working towards agentic flow
 Medical side or product?
 ```
 Agentic workflow
+input
+llm- user intent
